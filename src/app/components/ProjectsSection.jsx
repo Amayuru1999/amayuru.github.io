@@ -44,8 +44,8 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "React Firebase Template",
-    description: "Authentication and CRUD operations",
+    title: "Delivery Rider Game",
+    description: "Delivery Rider Game is a mobile game developed using Unity. The game simulates the experience of a delivery rider navigating through city streets to deliver orders on time. Players can enjoy various levels, challenges, and rewards as they progress through the game.",
     image: "/images/projects/img_4.png",
     tag: ["All", "Web"],
     gitUrl: "/",
