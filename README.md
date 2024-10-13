@@ -7,6 +7,7 @@ This is a portfolio website built with Next.js and Tailwind CSS. It showcases yo
 1. Clone the repository: `git clone https://github.com/Amayuru1999/amayuru.github.io.git`
 2. Navigate to the project directory: `cd portfolio-website`
 3. Install the dependencies: `npm install`
+4. Live Link: `https://amayuru-github-io.vercel.app/`
 
 ## Usage
 
